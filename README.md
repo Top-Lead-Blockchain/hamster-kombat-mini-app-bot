@@ -9,7 +9,7 @@
 - Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-autoclicker.user.js)
 - Открыть [Бота Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dhamster_kombat_bot%26appname%3Dstart%26startapp%3DkentId2475526) и запустить игру
 
-## ![Результат](https://github.com/solyasa/hamster-kombat-mini-app-bot/result.gif)
+## ![Результат](result.gif)
 
 
 ---
